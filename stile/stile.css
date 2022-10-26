@@ -9,41 +9,51 @@ body {
     position: absolute;
 }
 
-ul#menu li{
-    list-style-type: none;
-    display: inline;
-}
-
-#menuv1{
-    color: black;
-    text-decoration: none;
-}
-
-#menuv2{
-    color: black;
-    text-decoration: none;
-}
-
-#menuv3{
-    color: black;
-    text-decoration: none;
-}
-
-#menuv4{
-    color: black;
-    text-decoration: none;
-}
-
-#menuv5{
-    color: black;
-    text-decoration: none;
-}
-
 .travelbar {
     background-color: #663D39;
     width: 100%;
     height: 100px;
     position: absolute;
     margin-top: 670px;
+}
+
+.videobar{
+    background-color: #663D39;
+    width: 100%;
+    height: 1000px;
+    position: absolute;
+    margin-top: 770px;
+}
+
+.ispirationbar {
+    background-color: beige;
+    width: 100%;
+    height: 3000px;
+    position: absolute;
+    margin-top: 1770px;
+}
+
+.experiencebar {
+    background-color: #663D39;
+    width: 100%;
+    height: 1000px;
+    position: absolute;
+    margin-top: 4770px;
+}
+
+.competencesbar {
+    background-color: beige;
+    width: 100%;
+    height: 1230px;
+    position: absolute;
+    margin-top: 5770px;  
+}
+
+.thanksbar {
+    background-color: #663D39;
+    width: 100%;
+    height: 650px;
+    position: absolute;
+    margin-top: 7000px;
 }
 
